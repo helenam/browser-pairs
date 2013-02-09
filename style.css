@@ -98,13 +98,13 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(http://images2.layoutsparks.com/1/161216/alice-blue-shaded-wavy.png) no-repeat; background-size: contain;}
-.fx {background: url(http://www.johncowburn.com/resources/Wallpaper_small/Wallpaper_full_HD/wallpaper%20red.jpg) no-repeat; background-size: contain;}
-.cr {background: url(http://3.bp.blogspot.com/-wQYUOLTC1IE/UPKPBkJ9e1I/AAAAAAAAAC4/GiJmKy7dbNc/s1600/yellow_background_by_5oo5aah.jpg) no-repeat; background-size: contain;}
-.sf {background: url(http://www.wallsdigg.com/wp-content/uploads/2012/01/wallpaper-in-green.gif) no-repeat; background-size: contain;}
-.op {background: url(http://cdn.hdwallpaperspics.com/uploads/2012/11/purple_optic.jpg) no-repeat; background-size: contain;}
-.ns {background: url(http://fc06.deviantart.net/fs39/i/2008/335/b/4/Orange_Fusion_by_ZmDark.jpg) no-repeat; background-size: contain;}
-.fm {background: url(http://www.ledr.com/colours/white.jpg) no-repeat; background-size: contain;}
+.ie {background: url(http://images2.layoutsparks.com/1/161216/alice-blue-shaded-wavy.png) no-repeat; background-size: cover;}
+.fx {background: url(http://www.johncowburn.com/resources/Wallpaper_small/Wallpaper_full_HD/wallpaper%20red.jpg) no-repeat; background-size: cover;}
+.cr {background: url(http://3.bp.blogspot.com/-wQYUOLTC1IE/UPKPBkJ9e1I/AAAAAAAAAC4/GiJmKy7dbNc/s1600/yellow_background_by_5oo5aah.jpg) no-repeat; background-size: cover;}
+.sf {background: url(http://www.wallsdigg.com/wp-content/uploads/2012/01/wallpaper-in-green.gif) no-repeat; background-size: cover;}
+.op {background: url(http://cdn.hdwallpaperspics.com/uploads/2012/11/purple_optic.jpg) no-repeat; background-size: cover;}
+.ns {background: url(http://fc06.deviantart.net/fs39/i/2008/335/b/4/Orange_Fusion_by_ZmDark.jpg) no-repeat; background-size: cover;}
+.fm {background: url(http://www.ledr.com/colours/white.jpg) no-repeat; background-size: cover;}
 
 
 /* The .reset class is added to the cards when the game is reset */
