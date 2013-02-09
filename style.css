@@ -6,7 +6,7 @@
 a {
   outline: none;
   text-decoration:none;
-  color: #DA4930;
+  color: #DA9930;
 }
 
 body {
@@ -15,7 +15,7 @@ body {
   background-color: #F26522;
   background-size: auto auto, auto auto, 50px 50px, 50px 50px, auto auto;*/
   color: #DA4930;
-  font-family: "Days One", sans-serif;
+  font-family: "Times New Roman", sans-serif;
 }
 
 /* The #game element holds the whole game */
@@ -49,8 +49,8 @@ body {
   box-shadow: inset 0 0 8px #000;
   border-radius: 4px;
   padding: 8px 0;
-  height: 20px;
-  font-size: 19px;
+  height: 10px;
+  font-size: 6px;
 }
 
 /* The #reset button and the #gameScore button are in the header bar */
@@ -175,7 +175,7 @@ body {
 
 /* The #gameComplete element holds the screen that shows when you finish the game */
 #gameComplete {
-  background: url(./images/end.png) center 0 no-repeat;
+  background: url(http://images2.fanpop.com/images/photos/4100000/Rainbow-rainbows-4128014-1600-1200.jpg) center 0 no-repeat;
   text-align: center;
   position: absolute;
   margin: 10px;
